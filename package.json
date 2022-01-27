@@ -1,0 +1,20 @@
+{
+  "name": "vue-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleissonneves/vue-table.git"
+  },
+  "keywords": [],
+  "author": "Gleisson Neves <gleissonneves2017@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gleissonneves/vue-table/issues"
+  },
+  "homepage": "https://github.com/gleissonneves/vue-table#readme"
+}
