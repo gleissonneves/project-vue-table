@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gleissonneves/vue-table/issues"
   },
-  "homepage": "https://github.com/gleissonneves/vue-table#readme"
+  "homepage": "https://github.com/gleissonneves/vue-table#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
