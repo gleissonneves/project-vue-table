@@ -19,6 +19,6 @@
   "homepage": "https://github.com/gleissonneves/vue-table#readme",
   "devDependencies": {
     "@vue/test-utils": "^2.0.0-rc.18",
-    "jest": "^27.4.7"
+    "vue-jest": "^5.0.0-0"
   }
 }
